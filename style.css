@@ -1,0 +1,19 @@
+h1{
+    background-color: aqua;
+   color: blueviolet;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+p {
+    text-align: center;
+    font-size: 30px;
+    background-color: aqua;
+}
+
+div{
+ background-color: aqua;
+}
+title{
+    text-align: center;
+    background-color: blueviolet;
+    font-size: 40px;
+}
