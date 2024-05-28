@@ -1,16 +1,16 @@
 h1{
-    background-color: aqua;
+    background-color: rgb(169, 224, 224);
    color: blueviolet;
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
 }
 p {
     text-align: center;
     font-size: 30px;
-    background-color: aqua;
+    background-color: rgb(237, 239, 239);
 }
 
 div{
- background-color: aqua;
+ background-color: rgb(173, 240, 240);
 }
 title{
     text-align: center;
